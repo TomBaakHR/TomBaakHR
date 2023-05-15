@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TomBaakHR
+- 👋 Hi, I’m Tom Baak
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning C#
 <!-- - 💞️ I’m looking to collaborate on ...
